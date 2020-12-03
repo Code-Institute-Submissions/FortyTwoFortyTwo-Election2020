@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+.menu-main {
+	font-size: 0;
+}
+
+.menu-select {
+	background-color: #0000ff;
+	text-align: center;
+	font-size: 26px;
+}
+
+.list-inline-item:not(:last-child) {
+	margin: 0;
+}

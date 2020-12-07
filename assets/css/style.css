@@ -1,11 +1,40 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+.color-red {
+	color: #cb001b;
+}
+
+.color-blue {
+	color: #0271b1;
+}
+
+.color-grey {
+	color: #505050;
+}
+
+.color-background-lightred {
+	background-color: #ff9a99;
+}
+
+.color-background-lightblue {
+	background-color: #94c7de;
+}
+
+.color-background-lightgrey {
+	background-color: #D0D0D0;
+}
+
+.title-text {
+	margin: 0;
+	font-size: 60px;
+	text-align: center;
+}
+
 .menu-main {
 	font-size: 0;
 }
 
 .menu-select {
-	background-color: #0000ff;
 	text-align: center;
 	font-size: 26px;
 }

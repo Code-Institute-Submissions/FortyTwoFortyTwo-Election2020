@@ -8,6 +8,10 @@
 	color: #0271b1;
 }
 
+.color-orange {
+	color: #e47747;
+}
+
 .color-grey {
 	color: #505050;
 }
@@ -22,6 +26,11 @@
 
 .color-background-lightgrey {
 	background-color: #D0D0D0;
+}
+
+.font-exo {
+	font-family: "Exo", sans-serif;
+	font-weight: 700;
 }
 
 .title-text {
@@ -41,6 +50,14 @@
 
 .list-inline-item:not(:last-child) {
 	margin: 0;
+}
+
+.hvr-sweep-to-bottom {
+	vertical-align: baseline;
+}
+
+.hvr-sweep-to-bottom:before {
+	background: rgba(0, 0, 0, 0.2);
 }
 
 .img-electoralcollege {

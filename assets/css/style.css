@@ -48,6 +48,23 @@
 	font-size: 26px;
 }
 
+.form-title {
+	text-align: center;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 350px;
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #fafafa;
+    background-color: #e84610;
+}
+
 .list-inline-item:not(:last-child) {
 	margin: 0;
 }

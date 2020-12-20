@@ -67,3 +67,11 @@
 	background-size: contain;
 	min-height: 360px;
 }
+
+.img-georgiaresult {
+	background: url("../images/georgia-result.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	min-height: 360px;
+}

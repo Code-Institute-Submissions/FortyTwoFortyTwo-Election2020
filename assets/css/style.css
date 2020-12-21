@@ -93,6 +93,22 @@ button[type="submit"] {
 	min-height: 360px;
 }
 
+.img-nebraskadistrict {
+	background: url("../images/nebraska-district.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	min-height: 360px;
+}
+
+.img-mainedistrict {
+	background: url("../images/maine-district.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	min-height: 360px;
+}
+
 .social-links {
     padding-bottom: 15px;
 }

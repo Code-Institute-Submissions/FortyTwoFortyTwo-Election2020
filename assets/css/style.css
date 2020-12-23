@@ -48,21 +48,30 @@
 	font-size: 26px;
 }
 
-.form-title {
-	text-align: center;
+.center-form {
+	padding-top: 10px;
+	margin: 0 auto;
+	max-width: 350px;
 }
 
-.center-form {
-    padding-top: 10px;
-    margin: 0 auto;
-    max-width: 350px;
+.form-text {
+	font-family: "Exo", sans-serif;
+	font-weight: 500;
+	font-size: 20px;
+	padding-top: 20px;
+}
+
+.form-control {
+	font-size: 20px;
+	height: 40px;
+	border-radius: 20px;
 }
 
 button[type="submit"] {
-    margin-top: 15px;
-    margin-bottom: 20px;
-    color: #fafafa;
-    background-color: #e84610;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	color: #fafafa;
+	background-color: #e84610;
 }
 
 .list-inline-item:not(:last-child) {

@@ -52,18 +52,22 @@
 	<section class="container-fluid">
 		<div class="row">
 			<div class="col">
-				<h3>Sign up to receive news update!</h3>
+				<h3 class="text-align-center">Sign up to receive news update!</h3>
 				
-				<div>
+				<div class="center-form">
 					<form action="#" method="POST">
-						<label for="fname">First Name:</label>
-						<input type="text" name="fname" id="fname" required>
-						<label for="lname" >Last Name:</label>
-						<input type="text" name="lname" id="lname" required>
-						<label for="emailaddress" >Email:</label>
-						<input type="email" name="email" id="emailaddress" required>
+						<label for="fname" class="form-text">First Name:</label>
+						<input type="text" name="fname" id="fname" class="form-control" required>
+						<label for="lname" class="form-text">Last Name:</label>
+						<input type="text" name="lname" id="lname" class="form-control" required>
+						<label for="emailaddress" class="form-text">Email:</label>
+						<input type="email" name="email" id="emailaddress" class="form-control" required>
 						
-						<button type="submit">Get News</button>
+						<div class="text-center">
+							<div class="col">
+								<button type="submit" class="btn btn-secondary">Get News</button>
+							</div>
+						</div>
 					</form>
 				</div>
 			</div>

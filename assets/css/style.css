@@ -77,3 +77,31 @@
 .hvr-sweep-to-bottom:before {
 	background: rgba(0, 0, 0, 0.2);
 }
+
+/* ---------------------------------- Form */
+
+.center-form {
+	padding-top: 10px;
+	margin: 0 auto;
+	max-width: 350px;
+}
+
+.form-text {
+	font-family: "Exo", sans-serif;
+	font-weight: 500;
+	font-size: 20px;
+	padding-top: 20px;
+}
+
+.form-control {
+	font-size: 20px;
+	height: 40px;
+	border-radius: 20px;
+}
+
+button[type="submit"] {
+	margin-top: 30px;
+	margin-bottom: 20px;
+	color: #fafafa;
+	background-color: #e84610;
+}

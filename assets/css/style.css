@@ -1,5 +1,42 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+/* ---------------------------------- Colors */
+
+.color-red {
+	color: #cb001b;
+}
+
+.color-blue {
+	color: #0271b1;
+}
+
+.color-grey {
+	color: #505050;
+}
+
+.color-background-lightgrey {
+	background-color: #D0D0D0;
+}
+
+/* ---------------------------------- Text */
+
+.font-exo {
+	font-family: "Exo", sans-serif;
+	font-weight: 700;
+}
+
+.text-align-center {
+	text-align: center;
+}
+
+.title-text {
+	margin: 0;
+	padding: 5px;
+	font-size: 60px;
+}
+
+/* ---------------------------------- Heading */
+
 .menu-main {
 	font-size: 0;
 }

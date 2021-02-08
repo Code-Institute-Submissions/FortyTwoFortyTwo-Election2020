@@ -13,7 +13,7 @@ The website is designed to be simple and easy to use on any platform or scale. T
 * [Testing](#testing)
 * [Known Bugs](#known-bugs)
 * [Deployment](#deployment)
-* [Credits](#credits)
+* [Copyright](#copyright)
 
 ## User Experience
 The landing page is about the US general presidental election 2020 with a map of all states, user nagivating using tabs to Georgia Runoff and Contacts page.
@@ -101,7 +101,7 @@ The project was deployed with the following steps
 * The page will automatically refresh, and a link displaced.  It may take some time for the link to show the website.
 * If the page will not load go down to "template" under the "source" and select a template. 
 * Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
-
+* Website gets automatically updated on every commits push from master branch
 
 #### Forking
 By forking the GitHub Repository, you can make a copy of the original repository in your own GitHub account.  This means we can view or make changes without making the changes affecting the original.
@@ -128,9 +128,5 @@ By forking the GitHub Repository, you can make a copy of the original repository
                 > Unpacking objects: 100% (10/10), done.
 [Click Here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository) for more info on cloning. 
 
-
-## Credits
-* Brian Macharia - Mentor support, guidance, tips, and key things to look out for throughout the project. Helping me to check for errors and looking at my code.
-
-#### Copyright
+## Copyright
 All webpage images is taken from wikipedia under public domain.
